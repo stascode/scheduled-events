@@ -1,4 +1,4 @@
-#Quick and dirty sample script to subscribe to Azure VM scheduled events and log those events to a blob storage
+# Quick and dirty sample script to subscribe to Azure VM scheduled events and log those events to a blob storage
 
 Create a storage account 
 ```bash
